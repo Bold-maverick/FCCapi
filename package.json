@@ -3,6 +3,8 @@
 	"author": "bold_maverick",
 	"description": "This is the beginnining of my back end track",
 	"keywords": [ "freecodecamp", "api", "project" ],
+	"license": "MIT",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
