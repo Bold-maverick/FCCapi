@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "bold_maverick",
+	"description": "This is the beginnining of my back end track",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
